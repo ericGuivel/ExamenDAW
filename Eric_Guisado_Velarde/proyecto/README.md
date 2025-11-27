@@ -3,4 +3,4 @@
 ## git clone
 ## git commit
 ## git push
-### Línea añadida desde main por Eric Guisado
+### Línea añadida desde rama conflicto por Eric Guisado
